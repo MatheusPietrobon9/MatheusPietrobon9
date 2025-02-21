@@ -9,7 +9,7 @@
 
 
 
-![MatheusPietrobon9 GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPietrobon9&show_icons=true&theme=radical)
+![MatheusPietrobon9 GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPietrobon9&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
