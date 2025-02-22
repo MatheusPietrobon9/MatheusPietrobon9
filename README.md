@@ -11,7 +11,7 @@
 
 ![MatheusPietrobon9 GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPietrobon9&show_icons=true&theme=transparent)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia 👨🏻‍💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" src=""/>
