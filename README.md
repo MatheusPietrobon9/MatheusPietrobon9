@@ -25,7 +25,7 @@
 
 Meu nome é Matheus Pietrobon, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Univel, onde atualmente estou no 3º período. Além disso, estou me especializando por meio do curso da B7WEB, aprofundando meus conhecimentos em desenvolvimento de software.
 
-### Gmail: matheuspietrobon9@gmail.com
+### Gmail: matheuspietrobon9@gmail.com 🚀
 
 
 
